@@ -4,7 +4,7 @@ The Pyoneer Project aims to be the definitive guide for self-taught developers p
 
 # FAQs
 
-- *Is this free?*
+- **Is this free?**
   - Absolutely.
-- *Do I need prior experience?*
+- **Do I need prior experience?**
   - It helps but is not mandatory.
